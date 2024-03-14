@@ -21,7 +21,7 @@ const CustomFooter = () => {
         !
       </p>
       <p>
-        Last updated Dec 13, 2023
+        Last updated Mar 07, 2024
         <br />
         Copyright &copy; 2022 IBM
       </p>
